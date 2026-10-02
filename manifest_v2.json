@@ -1,0 +1,86 @@
+{
+  "item": {
+    "id": "com.hachimi.watch.davethediver",
+    "restype": "quick_app",
+    "name": "潜水员戴夫",
+    "description": "把蓝洞装进手环里\n还是那片蓝洞，还是那个胖胖的戴夫。\n海底地图照着原版的场景、地形和任务点一块块搬过来，鱼也是原版的像素图，118 种，小丑鱼、鹦嘴鱼、长尾鲨都在。点鱼发射鱼叉，大鱼会挣扎，指针拉进绿区才算到手，抓到新鱼照样弹出那张熟悉的 NEW 卡片。\n天黑了就回班乔的寿司店。菜谱按原版配方来，开店前挑好今晚的菜，然后自己跑堂：端盘子、倒茶、收桌子、补芥末，客人等太久是会走的。打烊后看评分，攒 COOKSTA 粉丝，升装备，再往更深的地方潜。\n手机也在：iDiver 升级装备，Marinca 翻图鉴，柯布拉的商店，员工管理。剧情从序章一直到第一章结尾，柯布拉、班乔、达夫、艾莉都会出来，最后还得下到 134 米，跟大王鱿鱼打一场。",
+    "preview": [
+      "media/00-cover.png",
+      "media/01-story.png",
+      "media/02-deck.png",
+      "media/03-reef.png",
+      "media/04-boss.png",
+      "media/05-phone.png",
+      "media/06-phone-marinca.png",
+      "media/07-daily-report.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/image-1790962086916.png",
+    "author": [
+      {
+        "name": "easejun",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官网",
+      "url": "https://dave.easejun.cn/",
+      "icon": "Bookmarks"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hachimi.watch.davethediver.release.1.0.0.rpk",
+      "versionCode": 100
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hachimi.watch.davethediver.release.1.0.0.rpk",
+      "versionCode": 100
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hachimi.watch.davethediver.release.1.0.0.rpk",
+      "versionCode": 100
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hachimi.watch.davethediver.release.1.0.0.rpk",
+      "versionCode": 100
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hachimi.watch.davethediver.release.1.0.0.rpk",
+      "versionCode": 100
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hachimi.watch.davethediver.release.1.0.0.rpk",
+      "versionCode": 100
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hachimi.watch.davethediver.release.1.0.0.rpk",
+      "versionCode": 100
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hachimi.watch.davethediver.release.1.0.0.rpk",
+      "versionCode": 100
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hachimi.watch.davethediver.release.1.0.0.rpk",
+      "versionCode": 100
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hachimi.watch.davethediver.release.1.0.0.rpk",
+      "versionCode": 100
+    }
+  },
+  "ext": {}
+}
